@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RecyclerViewServer</string>
+
+
+    <string name="CardView.txtName">Venecia Canal</string>
+    <string name="CardView.txtCountry">Italia</string>
+
+    <string name="MainActivity.Title">List of places</string>
+    <string name="Place.info">Information</string>
+    <string name="Place.txtName">Canal Venecia</string>
+    <string name="Place.txtCountry">Italy</string>
+
+</resources>
