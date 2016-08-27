@@ -8,6 +8,6 @@ RecyclerView conectado con un servidor para descargar las imagenes usando Picass
 
 <div align="center">
 
-<img src="https://github.com/diegodavidQ/diegodavidQ.github.io/blob/master/images/picassoRecycler/picasso1.png" alt="RecyclerView picasso" height="500"/> <img src="https://github.com/diegodavidQ/diegodavidQ.github.io/blob/master/images/picassoRecycler/picasso1.png" alt="RecyclerView server" height="500"/>
+<img src="https://github.com/diegodavidQ/diegodavidQ.github.io/blob/master/images/picassoRecycler/picasso1.png" alt="RecyclerView picasso" height="500"/> <img src="https://github.com/diegodavidQ/diegodavidQ.github.io/blob/master/images/picassoRecycler/picasso2.png" alt="RecyclerView server" height="500"/>
 
 </div>
